@@ -207,6 +207,7 @@ export const faKissBeam: IconDefinition;
 export const faFilm: IconDefinition;
 export const faRulerHorizontal: IconDefinition;
 export const faPeopleRobbery: IconDefinition;
+export const faOpenSea: IconDefinition;
 export const faLightbulb: IconDefinition;
 export const faCaretLeft: IconDefinition;
 export const faCircleExclamation: IconDefinition;
